@@ -15,6 +15,8 @@
 #ifndef _MICROROS_CLIENT_ZEPHYR_TRANSPORT_H_
 #define _MICROROS_CLIENT_ZEPHYR_TRANSPORT_H_
 
+#include <uxr/client/transport.h>
+
 #include <unistd.h>
 #include <version.h>
 
